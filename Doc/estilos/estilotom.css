@@ -1,0 +1,41 @@
+.subtitulo{
+    width: 200px;
+    margin: auto;
+    text-align: end;
+}
+#principal {
+    border: solid #000;
+    width: 450px;
+    height: 60px;
+    margin: 1px;
+    text-align: left;}
+    
+.cabeceraizq{
+    border: #000;
+    width: 20px;
+    height: 1px;
+    margin-left: 1px;
+    margin-inline-end: 60%;
+}
+#columnaderecha{
+    border: #000;
+    width: 1200px;
+    height: 300px;
+    text-align: center;
+}
+#columnaizq{
+    width: 1200px;
+    height: 250px;
+    margin: 2px;
+    float: left;
+    background-image: url(https://imgur.com/dkF0EFZ.jpg);
+    border: solid #000;
+}
+#menu{
+    border: #000;
+    width: 2px;
+    height: 80px;
+    margin: 1%;
+    width: 90px;
+    text-align: right;
+}

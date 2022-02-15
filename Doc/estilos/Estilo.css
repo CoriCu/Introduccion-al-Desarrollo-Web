@@ -1,0 +1,35 @@
+h3{color:#000;} 
+
+#principal {
+    width: 450px;
+    height: 60px;
+    margin: auto;
+    text-align: center;
+}
+.cabeceraizq{
+    width: 200px;
+    height: 100px;
+    margin-left: 1px;
+}
+#columnaizq{
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    float: left;
+}
+#columnaderecha{
+    width: 1200px;
+    height: 300px;
+    text-align: center;
+}
+#menu{
+    height: 80px;
+    margin: auto;
+    width: 900px;
+    text-align: center;
+}
+.subtitulo{
+    width: 200px;
+    margin: auto;
+    text-align: end;
+}
